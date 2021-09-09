@@ -1,6 +1,4 @@
-# seoul_covid_19
-
-# La_Mercante_Seoul
+# Seoul_Covid_19_Report_2021
 
 ## About
 'La Mercante Seoul' is a Python and Pandas project that processes South Korean public data to analyze market-entry strategies of franchise brands in Seoul.
