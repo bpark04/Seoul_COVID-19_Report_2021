@@ -22,5 +22,4 @@ Then, Pandas functions and Seaborn library is used to modify and visualize DataF
 ## How to Download and Install
 
 ## Data Resource
-* https://www.data.go.kr/en/index.do
-* https://www.data.go.kr/data/15012005/openapi.do
+* https://www.seoul.go.kr/coronaV/coronaStatus.do
