@@ -39,7 +39,14 @@ If you choose to run the jupyter notebook files on your computer, please double-
 
 **Anaconda** is a Python distribution that makes it easy to install Python plus a number of its most often used 3rd party libraries in a flexible way. You can open **Jupyter Notebook** through Anaconda and upload the file after downloading from this repository to open.
 
-**Download links**: https://www.anaconda.com/products/individual
+**Download link**: https://www.anaconda.com/products/individual
+
+After downloading Anaconda, you have to install following libraries:
+* If you are using Mac OS, plsease navigate to 'Environemnt' -> 'base (root)' -> 'Open Terminal' 
+* Once you open the terminal through Anaconda Navigator, please install following commands:
+* Requests: `conda install -c anaconda requests`
+* Beautifulsoup4: `conda install -c anaconda beautifulsoup4`
+* Tdqm: `conda install -c conda-forge tdqm`
 
 
 ## Data Resource
