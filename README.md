@@ -37,9 +37,9 @@ If you choose to run the jupyter notebook files on your computer, please double-
 
 ## How to Download and Install
 
-Anaconda is a Python distribution that makes it easy to install Python plus a number of its most often used 3rd party libraries in a flexible way. You can open Jupyter Notebook through Anaconda and upload the file after downloading from this repository to open.
+**Anaconda** is a Python distribution that makes it easy to install Python plus a number of its most often used 3rd party libraries in a flexible way. You can open **Jupyter Notebook** through Anaconda and upload the file after downloading from this repository to open.
 
-Download links: https://www.anaconda.com/products/individual
+**Download links**: https://www.anaconda.com/products/individual
 
 
 ## Data Resource
