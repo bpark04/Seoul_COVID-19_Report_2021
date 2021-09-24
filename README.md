@@ -26,8 +26,16 @@ Then, Pandas functions and Seaborn library is used to modify and visualize DataF
 
 
 ## Important Notes
-### Note1
-When you try to open 'Seoul_Covid_19_Analysis.ipynb' to view, you might see `Sorry, something went wrong. Reload?` message.
+### Note 1
+When you try to open **'Seoul_Covid_19_Analysis.ipynb'** to view, you might see `Sorry, something went wrong. Reload?` message.
+This is because .ipynb file is too big to open in github. Please click 'Reload' several times more until you see the contents.
+If you cannot see the contents after clicking 'Reload' more than 5 times, you can download and open the file in your machine.
+I highly recommend using **Anaconda** to open the file. Please refer to **How to Download and Install** section for details.
+
+### Note 2
+If you choose to run the jupyter notebook files on your computer, please double-check that there is a Python function for scrapping data from the actual website named `get_multi_page_list` in **'Data Crawling & Preprocessing.ipynb'** file. As Covid-19 cases are increasing rapidly these days, it may take more than 30 minutes to run this line of the code. 
+
+### Note 3
 
 ## How to Download and Install
 
