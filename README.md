@@ -26,6 +26,8 @@ Then, Pandas functions and Seaborn library is used to modify and visualize DataF
 
 
 ## Important Notes
+### Note1
+When you try to open 'Seoul_Covid_19_Analysis.ipynb' to view, you might see `Sorry, something went wrong. Reload?` message.
 
 ## How to Download and Install
 
