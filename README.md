@@ -30,14 +30,17 @@ Then, Pandas functions and Seaborn library is used to modify and visualize DataF
 When you try to open **'Seoul_Covid_19_Analysis.ipynb'** to view, you might see `Sorry, something went wrong. Reload?` message.
 This is because .ipynb file is too big to open in github. Please click 'Reload' several times more until you see the contents.
 If you cannot see the contents after clicking 'Reload' more than 5 times, you can download and open the file in your machine.
-I highly recommend using **Anaconda** to open the file. Please refer to **How to Download and Install** section for details.
+I highly recommend using **Anaconda** to open the file. Please refer to **How to Download and Install** section for the detailed instruction.
 
 ### Note 2
-If you choose to run the jupyter notebook files on your computer, please double-check that there is a Python function for scrapping data from the actual website named `get_multi_page_list` in **'Data Crawling & Preprocessing.ipynb'** file. As Covid-19 cases are increasing rapidly these days, it may take more than 30 minutes to run this line of the code. 
-
-### Note 3
+If you choose to run the jupyter notebook files on your computer, please double-check that there is a Python function for scrapping data from the actual website named `get_multi_page_list` in **'Data Crawling & Preprocessing.ipynb'** file. As Covid-19 cases are increasing rapidly these days, it may take more than 30 minutes to run this line of the code. If you want to skip this part and save your time, you can use **'covid_19_recent_data.csv'**. This file is collected on last August, so the pattern of the result can be different from recently dataset.
 
 ## How to Download and Install
+
+Anaconda is a Python distribution that makes it easy to install Python plus a number of its most often used 3rd party libraries in a flexible way. You can open Jupyter Notebook through Anaconda and upload the file after downloading from this repository to open.
+
+Download links: https://www.anaconda.com/products/individual
+
 
 ## Data Resource
 * https://www.seoul.go.kr/coronaV/coronaStatus.do
