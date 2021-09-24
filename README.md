@@ -48,7 +48,7 @@ After downloading Anaconda, you have to install the following libraries:
 * Beautifulsoup4: `conda install -c anaconda beautifulsoup4`
 * Tdqm: `conda install -c conda-forge tdqm`
 * Using `pip list` command on the terminal, double-check whether the following libraries are successfully installed: `pandas`, `numpy`, and `matplotlib`
-* If any of the three libraries are missing, please install by commanding `pip install [library name]`
+* If any of the three libraries are missing, please install it by commanding `pip install [library name]`
 
 
 ## Data Resource
